@@ -2,8 +2,6 @@ words = []
 txt = ""
 fileDir='c:\Awesome.png'
 import pytesseract
-import argparse
-import os
 
 print("hello world!")
 
