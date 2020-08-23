@@ -14,3 +14,5 @@ words.append(pytesseract.image_to_string(fileDir))
 
 print(pytesseract.image_to_string(fileDir))
 print(txt[0])
+
+return txt
