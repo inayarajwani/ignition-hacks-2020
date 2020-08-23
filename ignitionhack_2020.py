@@ -7,6 +7,11 @@ def highlight_text(desired_text):
             right_word.append(word)
         else:
             continue
+            
+    return right_word        
     print(str(right_word))
+    
+  
+
 
 
