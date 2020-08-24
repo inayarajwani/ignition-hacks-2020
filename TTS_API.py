@@ -1,6 +1,7 @@
 from gtts import gTTS
 import os
-# import ignitionhack_2020
-tts=gTTS(text="testing",lang="en")
-tts.save("test.mp3")
-os.system("start test.mp3")
+import ignitionhack_2020
+import 
+tts=gTTS(text="awesome",lang="en") #hilights awesome
+tts.save("awesome.mp3")
+os.system("start awesome.mp3")
